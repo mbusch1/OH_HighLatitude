@@ -1,0 +1,7 @@
+The original CO survey this OH GBT Proposal was based on is Heithausen 1993. We could use that data but it is older and less digitized than the complete CO CFA all-sky survery (Dame 2022).
+
+The link to the CFA CO Survey is here:
+
+https://lweb.cfa.harvard.edu/rtdc/CO/NorthernSkySurvey/
+
+We will use the Folded data to extract CO spectra from. These are frequency-switched calibrated. (See O'Neil 2002 "Single Dish Calibration Techniques at Radio Wavelengths").
