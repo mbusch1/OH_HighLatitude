@@ -1,0 +1,3 @@
+https://www.astro.uni-bonn.de/hisurvey/AllSky_gauss/
+
+Input coordinates and recieve the HI spectrum. Save as a machine-readable table.
